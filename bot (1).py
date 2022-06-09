@@ -1,3 +1,8 @@
+#################################
+#                               #
+#        芒果伺服器版权所有       #
+#                               #
+#################################
 import discord
 import asyncio
 import psutil
@@ -130,4 +135,9 @@ status_w = discord.Status.dnd
     #type可以是playing（遊玩中）、streaming（直撥中）、listening（聆聽中）、watching（觀看中）、custom（自定義）
 
 
-client.run('OTgxODIwNzUwNjUyNjQ5NDcy.Gdpe16.qumx6LccPopXS96G3sG2oYLMYf3fvH23OMchpE') #TOKEN 在剛剛 Discord Developer 那邊「BOT」頁面裡面
+client.run('YOUR-TOKEN') #TOKEN 在剛剛 Discord Developer 那邊「BOT」頁面裡面
+#################################
+#                               #
+#        芒果伺服器版权所有       #
+#                               #
+#################################
